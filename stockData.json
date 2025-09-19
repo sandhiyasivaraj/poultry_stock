@@ -1,0 +1,5402 @@
+[
+  {
+    "stockId": "chick_#940",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "Grey",
+    "image": "/images/parent_#66.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#128",
+      "fatherId": "parent_#892",
+      "fatherImage": "/images/parent_#75.jpg",
+      "motherImage": "/images/parent_#139.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#885",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Red and Brown",
+    "image": "/images/parent_#17.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#314",
+      "fatherId": "parent_#532",
+      "fatherImage": "/images/parent_#339.jpg",
+      "motherImage": "/images/parent_#348.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#358",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/chick_#91.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#204",
+      "fatherId": "parent_#538",
+      "fatherImage": "/images/parent_#341.jpg",
+      "motherImage": "/images/parent_#168.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#997",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/chick_#30.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#277",
+      "fatherId": "parent_#853",
+      "fatherImage": "/images/parent_#261.jpg",
+      "motherImage": "/images/parent_#55.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#922",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Black and White",
+    "image": "/images/chick_#90.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#207",
+      "fatherId": "parent_#891",
+      "fatherImage": "/images/parent_#2.jpg",
+      "motherImage": "/images/parent_#123.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#910",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "500",
+    "color": "Black",
+    "image": "/images/chick_#100.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#297",
+      "fatherId": "parent_#868",
+      "fatherImage": "/images/parent_#376.jpg",
+      "motherImage": "/images/parent_#171.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#706",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Yellow",
+    "image": "/images/parent_#5.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#36",
+      "fatherId": "parent_#998",
+      "fatherImage": "/images/parent_#18.jpg",
+      "motherImage": "/images/parent_#490.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#250",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "500",
+    "color": "Yellow",
+    "image": "/images/parent_#6.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#9",
+      "fatherId": "parent_#822",
+      "fatherImage": "/images/parent_#213.jpg",
+      "motherImage": "/images/parent_#498.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#133",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/chick_#87.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#222",
+      "fatherId": "parent_#557",
+      "fatherImage": "/images/parent_#29.jpg",
+      "motherImage": "/images/parent_#388.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#688",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "1000",
+    "color": "White",
+    "image": "/images/parent_#2.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#157",
+      "fatherId": "parent_#770",
+      "fatherImage": "/images/parent_#71.jpg",
+      "motherImage": "/images/parent_#466.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#854",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "4000",
+    "color": "White",
+    "image": "/images/parent_#99.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#190",
+      "fatherId": "parent_#762",
+      "fatherImage": "/images/parent_#418.jpg",
+      "motherImage": "/images/parent_#338.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#174",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Red and Brown",
+    "image": "/images/chick_#42.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#75",
+      "fatherId": "parent_#839",
+      "fatherImage": "/images/parent_#457.jpg",
+      "motherImage": "/images/parent_#330.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#942",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Black",
+    "image": "/images/chick_#33.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#239",
+      "fatherId": "parent_#939",
+      "fatherImage": "/images/parent_#18.jpg",
+      "motherImage": "/images/parent_#402.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#97",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/chick_#95.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#1",
+      "fatherId": "parent_#944",
+      "fatherImage": "/images/parent_#389.jpg",
+      "motherImage": "/images/parent_#314.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#241",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "500",
+    "color": "White",
+    "image": "/images/parent_#88.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#440",
+      "fatherId": "parent_#885",
+      "fatherImage": "/images/parent_#271.jpg",
+      "motherImage": "/images/parent_#29.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#14",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Grey",
+    "image": "/images/parent_#7.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#52",
+      "fatherId": "parent_#613",
+      "fatherImage": "/images/parent_#457.jpg",
+      "motherImage": "/images/parent_#52.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#565",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/chick_#84.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#214",
+      "fatherId": "parent_#512",
+      "fatherImage": "/images/parent_#379.jpg",
+      "motherImage": "/images/parent_#462.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#542",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "300",
+    "color": "Black",
+    "image": "/images/parent_#58.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#298",
+      "fatherId": "parent_#692",
+      "fatherImage": "/images/parent_#455.jpg",
+      "motherImage": "/images/parent_#462.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#634",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Black",
+    "image": "/images/parent_#28.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#408",
+      "fatherId": "parent_#802",
+      "fatherImage": "/images/parent_#122.jpg",
+      "motherImage": "/images/parent_#196.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#538",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Red and Brown",
+    "image": "/images/chick_#85.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#85",
+      "fatherId": "parent_#641",
+      "fatherImage": "/images/parent_#271.jpg",
+      "motherImage": "/images/parent_#469.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#200",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Yellow",
+    "image": "/images/chick_#6.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#493",
+      "fatherId": "parent_#725",
+      "fatherImage": "/images/parent_#177.jpg",
+      "motherImage": "/images/parent_#206.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#419",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Red and Brown",
+    "image": "/images/chick_#4.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#376",
+      "fatherId": "parent_#772",
+      "fatherImage": "/images/parent_#399.jpg",
+      "motherImage": "/images/parent_#455.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#255",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Black",
+    "image": "/images/parent_#70.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#246",
+      "fatherId": "parent_#898",
+      "fatherImage": "/images/parent_#423.jpg",
+      "motherImage": "/images/parent_#192.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#560",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "White",
+    "image": "/images/chick_#2.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#268",
+      "fatherId": "parent_#734",
+      "fatherImage": "/images/parent_#93.jpg",
+      "motherImage": "/images/parent_#88.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#142",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/chick_#10.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#343",
+      "fatherId": "parent_#932",
+      "fatherImage": "/images/parent_#459.jpg",
+      "motherImage": "/images/parent_#16.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#424",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Black",
+    "image": "/images/chick_#79.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#237",
+      "fatherId": "parent_#616",
+      "fatherImage": "/images/parent_#268.jpg",
+      "motherImage": "/images/parent_#158.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#247",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/parent_#51.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#205",
+      "fatherId": "parent_#517",
+      "fatherImage": "/images/parent_#396.jpg",
+      "motherImage": "/images/parent_#170.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#781",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/parent_#3.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#479",
+      "fatherId": "parent_#728",
+      "fatherImage": "/images/parent_#490.jpg",
+      "motherImage": "/images/parent_#450.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#204",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "200",
+    "color": "Black",
+    "image": "/images/chick_#17.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#85",
+      "fatherId": "parent_#636",
+      "fatherImage": "/images/parent_#240.jpg",
+      "motherImage": "/images/parent_#420.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#154",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "White",
+    "image": "/images/chick_#21.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#130",
+      "fatherId": "parent_#657",
+      "fatherImage": "/images/parent_#80.jpg",
+      "motherImage": "/images/parent_#12.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#488",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Grey",
+    "image": "/images/chick_#72.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#45",
+      "fatherId": "parent_#563",
+      "fatherImage": "/images/parent_#176.jpg",
+      "motherImage": "/images/parent_#262.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#563",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "500",
+    "color": "White",
+    "image": "/images/parent_#20.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#187",
+      "fatherId": "parent_#1000",
+      "fatherImage": "/images/parent_#319.jpg",
+      "motherImage": "/images/parent_#141.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#36",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Black",
+    "image": "/images/parent_#39.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#84",
+      "fatherId": "parent_#773",
+      "fatherImage": "/images/parent_#90.jpg",
+      "motherImage": "/images/parent_#121.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#875",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Yellow",
+    "image": "/images/chick_#26.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#185",
+      "fatherId": "parent_#942",
+      "fatherImage": "/images/parent_#85.jpg",
+      "motherImage": "/images/parent_#150.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#114",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/chick_#76.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#31",
+      "fatherId": "parent_#514",
+      "fatherImage": "/images/parent_#418.jpg",
+      "motherImage": "/images/parent_#472.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#381",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Black and White",
+    "image": "/images/parent_#11.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#413",
+      "fatherId": "parent_#620",
+      "fatherImage": "/images/parent_#68.jpg",
+      "motherImage": "/images/parent_#113.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#668",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Red and Brown",
+    "image": "/images/chick_#19.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#248",
+      "fatherId": "parent_#897",
+      "fatherImage": "/images/parent_#132.jpg",
+      "motherImage": "/images/parent_#251.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#518",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "White",
+    "image": "/images/parent_#38.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#402",
+      "fatherId": "parent_#948",
+      "fatherImage": "/images/parent_#295.jpg",
+      "motherImage": "/images/parent_#96.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#433",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Yellow",
+    "image": "/images/parent_#42.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#89",
+      "fatherId": "parent_#941",
+      "fatherImage": "/images/parent_#215.jpg",
+      "motherImage": "/images/parent_#447.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#103",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "200",
+    "color": "Yellow",
+    "image": "/images/parent_#97.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#58",
+      "fatherId": "parent_#899",
+      "fatherImage": "/images/parent_#374.jpg",
+      "motherImage": "/images/parent_#92.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#703",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/chick_#42.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#273",
+      "fatherId": "parent_#608",
+      "fatherImage": "/images/parent_#244.jpg",
+      "motherImage": "/images/parent_#323.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#814",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "300",
+    "color": "Red and Brown",
+    "image": "/images/chick_#100.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#136",
+      "fatherId": "parent_#868",
+      "fatherImage": "/images/parent_#181.jpg",
+      "motherImage": "/images/parent_#431.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#206",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Grey",
+    "image": "/images/chick_#44.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#119",
+      "fatherId": "parent_#932",
+      "fatherImage": "/images/parent_#107.jpg",
+      "motherImage": "/images/parent_#406.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#516",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/parent_#42.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#110",
+      "fatherId": "parent_#970",
+      "fatherImage": "/images/parent_#4.jpg",
+      "motherImage": "/images/parent_#268.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#820",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "4000",
+    "color": "White",
+    "image": "/images/parent_#68.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#340",
+      "fatherId": "parent_#882",
+      "fatherImage": "/images/parent_#410.jpg",
+      "motherImage": "/images/parent_#28.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#382",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/chick_#81.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#72",
+      "fatherId": "parent_#524",
+      "fatherImage": "/images/parent_#392.jpg",
+      "motherImage": "/images/parent_#182.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#755",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Yellow",
+    "image": "/images/chick_#1.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#295",
+      "fatherId": "parent_#696",
+      "fatherImage": "/images/parent_#148.jpg",
+      "motherImage": "/images/parent_#220.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#348",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/parent_#69.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#85",
+      "fatherId": "parent_#861",
+      "fatherImage": "/images/parent_#428.jpg",
+      "motherImage": "/images/parent_#37.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#251",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Black and White",
+    "image": "/images/parent_#17.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#458",
+      "fatherId": "parent_#685",
+      "fatherImage": "/images/parent_#103.jpg",
+      "motherImage": "/images/parent_#257.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#658",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/chick_#65.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#346",
+      "fatherId": "parent_#795",
+      "fatherImage": "/images/parent_#327.jpg",
+      "motherImage": "/images/parent_#53.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#457",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "300",
+    "color": "Red and Brown",
+    "image": "/images/chick_#9.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#92",
+      "fatherId": "parent_#985",
+      "fatherImage": "/images/parent_#294.jpg",
+      "motherImage": "/images/parent_#64.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#181",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/parent_#15.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#456",
+      "fatherId": "parent_#813",
+      "fatherImage": "/images/parent_#440.jpg",
+      "motherImage": "/images/parent_#404.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#849",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Grey",
+    "image": "/images/chick_#29.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#466",
+      "fatherId": "parent_#519",
+      "fatherImage": "/images/parent_#347.jpg",
+      "motherImage": "/images/parent_#414.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#878",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "500",
+    "color": "Yellow",
+    "image": "/images/chick_#30.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#205",
+      "fatherId": "parent_#647",
+      "fatherImage": "/images/parent_#233.jpg",
+      "motherImage": "/images/parent_#481.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#785",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/chick_#47.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#438",
+      "fatherId": "parent_#868",
+      "fatherImage": "/images/parent_#335.jpg",
+      "motherImage": "/images/parent_#275.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#675",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/parent_#36.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#73",
+      "fatherId": "parent_#517",
+      "fatherImage": "/images/parent_#238.jpg",
+      "motherImage": "/images/parent_#432.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#92",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/parent_#60.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#220",
+      "fatherId": "parent_#541",
+      "fatherImage": "/images/parent_#485.jpg",
+      "motherImage": "/images/parent_#337.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#950",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Black",
+    "image": "/images/parent_#87.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#150",
+      "fatherId": "parent_#995",
+      "fatherImage": "/images/parent_#190.jpg",
+      "motherImage": "/images/parent_#418.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#942",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/parent_#72.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#378",
+      "fatherId": "parent_#556",
+      "fatherImage": "/images/parent_#170.jpg",
+      "motherImage": "/images/parent_#252.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#975",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Red and Brown",
+    "image": "/images/parent_#15.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#406",
+      "fatherId": "parent_#797",
+      "fatherImage": "/images/parent_#481.jpg",
+      "motherImage": "/images/parent_#388.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#379",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/chick_#35.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#63",
+      "fatherId": "parent_#925",
+      "fatherImage": "/images/parent_#107.jpg",
+      "motherImage": "/images/parent_#278.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#623",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "White",
+    "image": "/images/parent_#79.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#187",
+      "fatherId": "parent_#961",
+      "fatherImage": "/images/parent_#228.jpg",
+      "motherImage": "/images/parent_#168.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#318",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/chick_#25.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#324",
+      "fatherId": "parent_#752",
+      "fatherImage": "/images/parent_#34.jpg",
+      "motherImage": "/images/parent_#51.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#779",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/chick_#36.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#442",
+      "fatherId": "parent_#962",
+      "fatherImage": "/images/parent_#334.jpg",
+      "motherImage": "/images/parent_#42.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#826",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Yellow",
+    "image": "/images/parent_#81.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#451",
+      "fatherId": "parent_#553",
+      "fatherImage": "/images/parent_#133.jpg",
+      "motherImage": "/images/parent_#221.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#200",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Red and Brown",
+    "image": "/images/parent_#93.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#359",
+      "fatherId": "parent_#995",
+      "fatherImage": "/images/parent_#404.jpg",
+      "motherImage": "/images/parent_#281.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#473",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Yellow",
+    "image": "/images/parent_#12.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#476",
+      "fatherId": "parent_#845",
+      "fatherImage": "/images/parent_#271.jpg",
+      "motherImage": "/images/parent_#221.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#28",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "300",
+    "color": "Black and White",
+    "image": "/images/chick_#72.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#304",
+      "fatherId": "parent_#930",
+      "fatherImage": "/images/parent_#491.jpg",
+      "motherImage": "/images/parent_#167.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#196",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/parent_#18.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#256",
+      "fatherId": "parent_#865",
+      "fatherImage": "/images/parent_#205.jpg",
+      "motherImage": "/images/parent_#481.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#123",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Red and Brown",
+    "image": "/images/chick_#27.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#435",
+      "fatherId": "parent_#656",
+      "fatherImage": "/images/parent_#339.jpg",
+      "motherImage": "/images/parent_#101.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#406",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Black",
+    "image": "/images/chick_#14.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#341",
+      "fatherId": "parent_#565",
+      "fatherImage": "/images/parent_#355.jpg",
+      "motherImage": "/images/parent_#88.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#781",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "300",
+    "color": "Yellow",
+    "image": "/images/chick_#30.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#74",
+      "fatherId": "parent_#682",
+      "fatherImage": "/images/parent_#224.jpg",
+      "motherImage": "/images/parent_#320.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#739",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "White",
+    "image": "/images/chick_#23.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#444",
+      "fatherId": "parent_#844",
+      "fatherImage": "/images/parent_#368.jpg",
+      "motherImage": "/images/parent_#483.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#864",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/chick_#19.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#166",
+      "fatherId": "parent_#826",
+      "fatherImage": "/images/parent_#168.jpg",
+      "motherImage": "/images/parent_#157.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#890",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "500",
+    "color": "White",
+    "image": "/images/parent_#65.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#98",
+      "fatherId": "parent_#899",
+      "fatherImage": "/images/parent_#39.jpg",
+      "motherImage": "/images/parent_#352.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#353",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Black and White",
+    "image": "/images/chick_#25.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#341",
+      "fatherId": "parent_#846",
+      "fatherImage": "/images/parent_#41.jpg",
+      "motherImage": "/images/parent_#180.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#378",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/parent_#87.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#399",
+      "fatherId": "parent_#693",
+      "fatherImage": "/images/parent_#24.jpg",
+      "motherImage": "/images/parent_#276.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#588",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Grey",
+    "image": "/images/chick_#1.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#362",
+      "fatherId": "parent_#844",
+      "fatherImage": "/images/parent_#415.jpg",
+      "motherImage": "/images/parent_#78.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#61",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Black and White",
+    "image": "/images/parent_#76.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#121",
+      "fatherId": "parent_#754",
+      "fatherImage": "/images/parent_#400.jpg",
+      "motherImage": "/images/parent_#158.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#620",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/parent_#71.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#138",
+      "fatherId": "parent_#926",
+      "fatherImage": "/images/parent_#336.jpg",
+      "motherImage": "/images/parent_#51.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#77",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Black and White",
+    "image": "/images/parent_#72.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#474",
+      "fatherId": "parent_#546",
+      "fatherImage": "/images/parent_#415.jpg",
+      "motherImage": "/images/parent_#83.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#956",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Black",
+    "image": "/images/chick_#77.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#443",
+      "fatherId": "parent_#817",
+      "fatherImage": "/images/parent_#377.jpg",
+      "motherImage": "/images/parent_#455.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#607",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Black and White",
+    "image": "/images/parent_#61.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#372",
+      "fatherId": "parent_#873",
+      "fatherImage": "/images/parent_#197.jpg",
+      "motherImage": "/images/parent_#61.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#62",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Yellow",
+    "image": "/images/chick_#66.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#176",
+      "fatherId": "parent_#668",
+      "fatherImage": "/images/parent_#316.jpg",
+      "motherImage": "/images/parent_#500.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#12",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/chick_#62.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#274",
+      "fatherId": "parent_#813",
+      "fatherImage": "/images/parent_#277.jpg",
+      "motherImage": "/images/parent_#389.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#182",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "White",
+    "image": "/images/parent_#39.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#337",
+      "fatherId": "parent_#891",
+      "fatherImage": "/images/parent_#423.jpg",
+      "motherImage": "/images/parent_#417.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#738",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "300",
+    "color": "Black and White",
+    "image": "/images/chick_#62.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#354",
+      "fatherId": "parent_#522",
+      "fatherImage": "/images/parent_#184.jpg",
+      "motherImage": "/images/parent_#76.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#468",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "White",
+    "image": "/images/chick_#39.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#357",
+      "fatherId": "parent_#764",
+      "fatherImage": "/images/parent_#222.jpg",
+      "motherImage": "/images/parent_#12.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#791",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/parent_#48.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#35",
+      "fatherId": "parent_#863",
+      "fatherImage": "/images/parent_#282.jpg",
+      "motherImage": "/images/parent_#378.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#759",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Red and Brown",
+    "image": "/images/chick_#42.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#55",
+      "fatherId": "parent_#558",
+      "fatherImage": "/images/parent_#351.jpg",
+      "motherImage": "/images/parent_#260.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#818",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/chick_#28.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#167",
+      "fatherId": "parent_#571",
+      "fatherImage": "/images/parent_#12.jpg",
+      "motherImage": "/images/parent_#162.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#59",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "200",
+    "color": "Grey",
+    "image": "/images/chick_#70.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#294",
+      "fatherId": "parent_#577",
+      "fatherImage": "/images/parent_#19.jpg",
+      "motherImage": "/images/parent_#184.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#356",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/parent_#14.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#96",
+      "fatherId": "parent_#716",
+      "fatherImage": "/images/parent_#424.jpg",
+      "motherImage": "/images/parent_#474.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#558",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/chick_#38.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#263",
+      "fatherId": "parent_#675",
+      "fatherImage": "/images/parent_#50.jpg",
+      "motherImage": "/images/parent_#262.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#440",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "200",
+    "color": "Red and Brown",
+    "image": "/images/parent_#21.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#172",
+      "fatherId": "parent_#809",
+      "fatherImage": "/images/parent_#245.jpg",
+      "motherImage": "/images/parent_#462.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#293",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Black",
+    "image": "/images/parent_#67.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#333",
+      "fatherId": "parent_#735",
+      "fatherImage": "/images/parent_#450.jpg",
+      "motherImage": "/images/parent_#186.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#623",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "Grey",
+    "image": "/images/chick_#64.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#169",
+      "fatherId": "parent_#538",
+      "fatherImage": "/images/parent_#91.jpg",
+      "motherImage": "/images/parent_#337.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#781",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/chick_#68.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#349",
+      "fatherId": "parent_#921",
+      "fatherImage": "/images/parent_#429.jpg",
+      "motherImage": "/images/parent_#42.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#234",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Black and White",
+    "image": "/images/chick_#66.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#238",
+      "fatherId": "parent_#678",
+      "fatherImage": "/images/parent_#391.jpg",
+      "motherImage": "/images/parent_#100.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#569",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "500",
+    "color": "Red and Brown",
+    "image": "/images/chick_#20.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#263",
+      "fatherId": "parent_#698",
+      "fatherImage": "/images/parent_#289.jpg",
+      "motherImage": "/images/parent_#121.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#81",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/chick_#34.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#55",
+      "fatherId": "parent_#692",
+      "fatherImage": "/images/parent_#346.jpg",
+      "motherImage": "/images/parent_#436.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#168",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Black",
+    "image": "/images/parent_#34.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#168",
+      "fatherId": "parent_#675",
+      "fatherImage": "/images/parent_#111.jpg",
+      "motherImage": "/images/parent_#194.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#642",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "200",
+    "color": "Black",
+    "image": "/images/chick_#53.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#75",
+      "fatherId": "parent_#806",
+      "fatherImage": "/images/parent_#400.jpg",
+      "motherImage": "/images/parent_#314.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#420",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/parent_#58.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#6",
+      "fatherId": "parent_#649",
+      "fatherImage": "/images/parent_#251.jpg",
+      "motherImage": "/images/parent_#9.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#770",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/parent_#90.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#128",
+      "fatherId": "parent_#905",
+      "fatherImage": "/images/parent_#411.jpg",
+      "motherImage": "/images/parent_#452.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#585",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Black",
+    "image": "/images/chick_#52.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#383",
+      "fatherId": "parent_#901",
+      "fatherImage": "/images/parent_#265.jpg",
+      "motherImage": "/images/parent_#381.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#393",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Red and Brown",
+    "image": "/images/chick_#63.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#78",
+      "fatherId": "parent_#576",
+      "fatherImage": "/images/parent_#52.jpg",
+      "motherImage": "/images/parent_#48.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#488",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "500",
+    "color": "Grey",
+    "image": "/images/chick_#39.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#420",
+      "fatherId": "parent_#799",
+      "fatherImage": "/images/parent_#112.jpg",
+      "motherImage": "/images/parent_#132.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#319",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "Grey",
+    "image": "/images/chick_#24.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#409",
+      "fatherId": "parent_#537",
+      "fatherImage": "/images/parent_#197.jpg",
+      "motherImage": "/images/parent_#29.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#112",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Red and Brown",
+    "image": "/images/parent_#52.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#399",
+      "fatherId": "parent_#738",
+      "fatherImage": "/images/parent_#303.jpg",
+      "motherImage": "/images/parent_#30.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#308",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/chick_#71.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#33",
+      "fatherId": "parent_#584",
+      "fatherImage": "/images/parent_#7.jpg",
+      "motherImage": "/images/parent_#171.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#199",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "300",
+    "color": "Red and Brown",
+    "image": "/images/parent_#41.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#281",
+      "fatherId": "parent_#514",
+      "fatherImage": "/images/parent_#461.jpg",
+      "motherImage": "/images/parent_#485.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#332",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Grey",
+    "image": "/images/parent_#9.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#297",
+      "fatherId": "parent_#523",
+      "fatherImage": "/images/parent_#339.jpg",
+      "motherImage": "/images/parent_#294.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#774",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/chick_#74.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#29",
+      "fatherId": "parent_#800",
+      "fatherImage": "/images/parent_#159.jpg",
+      "motherImage": "/images/parent_#189.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#204",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "Black",
+    "image": "/images/parent_#100.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#248",
+      "fatherId": "parent_#867",
+      "fatherImage": "/images/parent_#282.jpg",
+      "motherImage": "/images/parent_#344.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#253",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "200",
+    "color": "Black",
+    "image": "/images/chick_#54.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#233",
+      "fatherId": "parent_#603",
+      "fatherImage": "/images/parent_#189.jpg",
+      "motherImage": "/images/parent_#154.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#856",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "300",
+    "color": "Red and Brown",
+    "image": "/images/parent_#85.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#369",
+      "fatherId": "parent_#641",
+      "fatherImage": "/images/parent_#410.jpg",
+      "motherImage": "/images/parent_#236.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#815",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "Yellow",
+    "image": "/images/chick_#64.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#156",
+      "fatherId": "parent_#638",
+      "fatherImage": "/images/parent_#121.jpg",
+      "motherImage": "/images/parent_#252.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#66",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/chick_#30.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#122",
+      "fatherId": "parent_#994",
+      "fatherImage": "/images/parent_#160.jpg",
+      "motherImage": "/images/parent_#462.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#463",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/chick_#74.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#392",
+      "fatherId": "parent_#721",
+      "fatherImage": "/images/parent_#305.jpg",
+      "motherImage": "/images/parent_#153.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#509",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Grey",
+    "image": "/images/parent_#39.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#101",
+      "fatherId": "parent_#579",
+      "fatherImage": "/images/parent_#432.jpg",
+      "motherImage": "/images/parent_#438.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#412",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Red and Brown",
+    "image": "/images/chick_#61.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#363",
+      "fatherId": "parent_#903",
+      "fatherImage": "/images/parent_#284.jpg",
+      "motherImage": "/images/parent_#26.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#138",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "500",
+    "color": "Black",
+    "image": "/images/chick_#76.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#130",
+      "fatherId": "parent_#941",
+      "fatherImage": "/images/parent_#292.jpg",
+      "motherImage": "/images/parent_#157.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#668",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Black",
+    "image": "/images/parent_#37.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#54",
+      "fatherId": "parent_#811",
+      "fatherImage": "/images/parent_#322.jpg",
+      "motherImage": "/images/parent_#153.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#308",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Black",
+    "image": "/images/chick_#71.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#400",
+      "fatherId": "parent_#830",
+      "fatherImage": "/images/parent_#175.jpg",
+      "motherImage": "/images/parent_#397.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#747",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Yellow",
+    "image": "/images/parent_#50.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#440",
+      "fatherId": "parent_#727",
+      "fatherImage": "/images/parent_#56.jpg",
+      "motherImage": "/images/parent_#311.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#994",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "Black",
+    "image": "/images/chick_#98.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#336",
+      "fatherId": "parent_#566",
+      "fatherImage": "/images/parent_#325.jpg",
+      "motherImage": "/images/parent_#89.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#283",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Black and White",
+    "image": "/images/chick_#68.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#169",
+      "fatherId": "parent_#610",
+      "fatherImage": "/images/parent_#281.jpg",
+      "motherImage": "/images/parent_#57.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#678",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Black and White",
+    "image": "/images/chick_#66.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#170",
+      "fatherId": "parent_#641",
+      "fatherImage": "/images/parent_#355.jpg",
+      "motherImage": "/images/parent_#73.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#169",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Black",
+    "image": "/images/parent_#14.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#447",
+      "fatherId": "parent_#633",
+      "fatherImage": "/images/parent_#163.jpg",
+      "motherImage": "/images/parent_#148.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#559",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Grey",
+    "image": "/images/chick_#34.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#348",
+      "fatherId": "parent_#726",
+      "fatherImage": "/images/parent_#303.jpg",
+      "motherImage": "/images/parent_#363.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#237",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/chick_#58.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#369",
+      "fatherId": "parent_#931",
+      "fatherImage": "/images/parent_#120.jpg",
+      "motherImage": "/images/parent_#395.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#461",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Red and Brown",
+    "image": "/images/chick_#88.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#323",
+      "fatherId": "parent_#623",
+      "fatherImage": "/images/parent_#448.jpg",
+      "motherImage": "/images/parent_#362.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#584",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "200",
+    "color": "Black",
+    "image": "/images/chick_#82.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#287",
+      "fatherId": "parent_#670",
+      "fatherImage": "/images/parent_#390.jpg",
+      "motherImage": "/images/parent_#386.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#580",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Black",
+    "image": "/images/chick_#57.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#82",
+      "fatherId": "parent_#678",
+      "fatherImage": "/images/parent_#477.jpg",
+      "motherImage": "/images/parent_#241.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#910",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/chick_#19.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#402",
+      "fatherId": "parent_#917",
+      "fatherImage": "/images/parent_#245.jpg",
+      "motherImage": "/images/parent_#15.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#266",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Black and White",
+    "image": "/images/chick_#69.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#314",
+      "fatherId": "parent_#520",
+      "fatherImage": "/images/parent_#99.jpg",
+      "motherImage": "/images/parent_#328.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#104",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Yellow",
+    "image": "/images/chick_#14.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#328",
+      "fatherId": "parent_#766",
+      "fatherImage": "/images/parent_#6.jpg",
+      "motherImage": "/images/parent_#459.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#50",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/parent_#47.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#139",
+      "fatherId": "parent_#693",
+      "fatherImage": "/images/parent_#446.jpg",
+      "motherImage": "/images/parent_#474.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#325",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Black and White",
+    "image": "/images/parent_#93.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#37",
+      "fatherId": "parent_#990",
+      "fatherImage": "/images/parent_#5.jpg",
+      "motherImage": "/images/parent_#26.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#936",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Black",
+    "image": "/images/parent_#17.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#109",
+      "fatherId": "parent_#553",
+      "fatherImage": "/images/parent_#409.jpg",
+      "motherImage": "/images/parent_#125.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#306",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Black",
+    "image": "/images/chick_#26.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#8",
+      "fatherId": "parent_#968",
+      "fatherImage": "/images/parent_#319.jpg",
+      "motherImage": "/images/parent_#151.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#607",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Red and Brown",
+    "image": "/images/chick_#58.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#480",
+      "fatherId": "parent_#597",
+      "fatherImage": "/images/parent_#441.jpg",
+      "motherImage": "/images/parent_#145.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#925",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Yellow",
+    "image": "/images/parent_#98.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#445",
+      "fatherId": "parent_#998",
+      "fatherImage": "/images/parent_#179.jpg",
+      "motherImage": "/images/parent_#121.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#493",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Black",
+    "image": "/images/chick_#97.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#94",
+      "fatherId": "parent_#683",
+      "fatherImage": "/images/parent_#203.jpg",
+      "motherImage": "/images/parent_#319.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#591",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Yellow",
+    "image": "/images/parent_#15.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#300",
+      "fatherId": "parent_#670",
+      "fatherImage": "/images/parent_#394.jpg",
+      "motherImage": "/images/parent_#306.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#440",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Yellow",
+    "image": "/images/parent_#59.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#9",
+      "fatherId": "parent_#615",
+      "fatherImage": "/images/parent_#290.jpg",
+      "motherImage": "/images/parent_#64.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#539",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Black",
+    "image": "/images/parent_#12.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#375",
+      "fatherId": "parent_#977",
+      "fatherImage": "/images/parent_#361.jpg",
+      "motherImage": "/images/parent_#267.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#173",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Black",
+    "image": "/images/parent_#98.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#294",
+      "fatherId": "parent_#831",
+      "fatherImage": "/images/parent_#451.jpg",
+      "motherImage": "/images/parent_#347.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#443",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/parent_#10.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#452",
+      "fatherId": "parent_#887",
+      "fatherImage": "/images/parent_#224.jpg",
+      "motherImage": "/images/parent_#347.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#831",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Black",
+    "image": "/images/chick_#61.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#199",
+      "fatherId": "parent_#852",
+      "fatherImage": "/images/parent_#319.jpg",
+      "motherImage": "/images/parent_#119.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#5",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/chick_#47.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#270",
+      "fatherId": "parent_#576",
+      "fatherImage": "/images/parent_#100.jpg",
+      "motherImage": "/images/parent_#82.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#682",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/chick_#53.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#181",
+      "fatherId": "parent_#669",
+      "fatherImage": "/images/parent_#150.jpg",
+      "motherImage": "/images/parent_#4.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#405",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/chick_#20.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#195",
+      "fatherId": "parent_#508",
+      "fatherImage": "/images/parent_#132.jpg",
+      "motherImage": "/images/parent_#183.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#701",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/parent_#40.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#150",
+      "fatherId": "parent_#919",
+      "fatherImage": "/images/parent_#52.jpg",
+      "motherImage": "/images/parent_#441.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#265",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Yellow",
+    "image": "/images/chick_#57.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#209",
+      "fatherId": "parent_#646",
+      "fatherImage": "/images/parent_#118.jpg",
+      "motherImage": "/images/parent_#81.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#771",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/parent_#61.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#459",
+      "fatherId": "parent_#984",
+      "fatherImage": "/images/parent_#310.jpg",
+      "motherImage": "/images/parent_#341.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#542",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Black and White",
+    "image": "/images/chick_#85.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#63",
+      "fatherId": "parent_#948",
+      "fatherImage": "/images/parent_#461.jpg",
+      "motherImage": "/images/parent_#166.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#651",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Red and Brown",
+    "image": "/images/chick_#31.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#70",
+      "fatherId": "parent_#546",
+      "fatherImage": "/images/parent_#455.jpg",
+      "motherImage": "/images/parent_#130.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#44",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "White",
+    "image": "/images/parent_#31.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#240",
+      "fatherId": "parent_#718",
+      "fatherImage": "/images/parent_#38.jpg",
+      "motherImage": "/images/parent_#63.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#680",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/chick_#44.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#124",
+      "fatherId": "parent_#655",
+      "fatherImage": "/images/parent_#392.jpg",
+      "motherImage": "/images/parent_#235.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#69",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Black and White",
+    "image": "/images/parent_#91.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#358",
+      "fatherId": "parent_#627",
+      "fatherImage": "/images/parent_#416.jpg",
+      "motherImage": "/images/parent_#283.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#846",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/parent_#44.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#166",
+      "fatherId": "parent_#536",
+      "fatherImage": "/images/parent_#427.jpg",
+      "motherImage": "/images/parent_#182.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#413",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "White",
+    "image": "/images/chick_#96.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#335",
+      "fatherId": "parent_#871",
+      "fatherImage": "/images/parent_#212.jpg",
+      "motherImage": "/images/parent_#290.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#611",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/parent_#41.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#79",
+      "fatherId": "parent_#854",
+      "fatherImage": "/images/parent_#161.jpg",
+      "motherImage": "/images/parent_#390.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#133",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/parent_#91.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#17",
+      "fatherId": "parent_#802",
+      "fatherImage": "/images/parent_#2.jpg",
+      "motherImage": "/images/parent_#480.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#455",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Red and Brown",
+    "image": "/images/parent_#39.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#342",
+      "fatherId": "parent_#749",
+      "fatherImage": "/images/parent_#487.jpg",
+      "motherImage": "/images/parent_#34.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#602",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Black",
+    "image": "/images/parent_#81.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#284",
+      "fatherId": "parent_#722",
+      "fatherImage": "/images/parent_#242.jpg",
+      "motherImage": "/images/parent_#4.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#36",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/chick_#96.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#445",
+      "fatherId": "parent_#557",
+      "fatherImage": "/images/parent_#260.jpg",
+      "motherImage": "/images/parent_#100.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#691",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "Black",
+    "image": "/images/chick_#61.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#37",
+      "fatherId": "parent_#651",
+      "fatherImage": "/images/parent_#155.jpg",
+      "motherImage": "/images/parent_#182.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#228",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Grey",
+    "image": "/images/chick_#35.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#66",
+      "fatherId": "parent_#546",
+      "fatherImage": "/images/parent_#144.jpg",
+      "motherImage": "/images/parent_#302.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#25",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/parent_#1.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#389",
+      "fatherId": "parent_#901",
+      "fatherImage": "/images/parent_#154.jpg",
+      "motherImage": "/images/parent_#40.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#51",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Black",
+    "image": "/images/chick_#38.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#63",
+      "fatherId": "parent_#810",
+      "fatherImage": "/images/parent_#430.jpg",
+      "motherImage": "/images/parent_#433.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#172",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Black and White",
+    "image": "/images/parent_#74.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#381",
+      "fatherId": "parent_#544",
+      "fatherImage": "/images/parent_#207.jpg",
+      "motherImage": "/images/parent_#228.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#75",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Yellow",
+    "image": "/images/chick_#62.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#457",
+      "fatherId": "parent_#817",
+      "fatherImage": "/images/parent_#15.jpg",
+      "motherImage": "/images/parent_#190.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#180",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "White",
+    "image": "/images/chick_#48.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#374",
+      "fatherId": "parent_#829",
+      "fatherImage": "/images/parent_#72.jpg",
+      "motherImage": "/images/parent_#54.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#935",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/chick_#65.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#439",
+      "fatherId": "parent_#863",
+      "fatherImage": "/images/parent_#363.jpg",
+      "motherImage": "/images/parent_#162.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#683",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "Red and Brown",
+    "image": "/images/parent_#59.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#4",
+      "fatherId": "parent_#613",
+      "fatherImage": "/images/parent_#255.jpg",
+      "motherImage": "/images/parent_#139.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#932",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Black and White",
+    "image": "/images/parent_#69.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#483",
+      "fatherId": "parent_#829",
+      "fatherImage": "/images/parent_#130.jpg",
+      "motherImage": "/images/parent_#370.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#820",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Grey",
+    "image": "/images/parent_#30.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#31",
+      "fatherId": "parent_#991",
+      "fatherImage": "/images/parent_#300.jpg",
+      "motherImage": "/images/parent_#183.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#642",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Black",
+    "image": "/images/chick_#46.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#258",
+      "fatherId": "parent_#912",
+      "fatherImage": "/images/parent_#364.jpg",
+      "motherImage": "/images/parent_#465.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#974",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/parent_#72.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#134",
+      "fatherId": "parent_#524",
+      "fatherImage": "/images/parent_#248.jpg",
+      "motherImage": "/images/parent_#262.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#211",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Black",
+    "image": "/images/chick_#80.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#71",
+      "fatherId": "parent_#901",
+      "fatherImage": "/images/parent_#156.jpg",
+      "motherImage": "/images/parent_#466.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#236",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "300",
+    "color": "Grey",
+    "image": "/images/parent_#27.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#163",
+      "fatherId": "parent_#818",
+      "fatherImage": "/images/parent_#69.jpg",
+      "motherImage": "/images/parent_#427.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#432",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "White",
+    "image": "/images/chick_#2.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#268",
+      "fatherId": "parent_#737",
+      "fatherImage": "/images/parent_#259.jpg",
+      "motherImage": "/images/parent_#406.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#4",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Black and White",
+    "image": "/images/parent_#95.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#9",
+      "fatherId": "parent_#984",
+      "fatherImage": "/images/parent_#2.jpg",
+      "motherImage": "/images/parent_#469.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#362",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "Yellow",
+    "image": "/images/parent_#39.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#234",
+      "fatherId": "parent_#596",
+      "fatherImage": "/images/parent_#474.jpg",
+      "motherImage": "/images/parent_#463.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#658",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "500",
+    "color": "White",
+    "image": "/images/chick_#72.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#259",
+      "fatherId": "parent_#837",
+      "fatherImage": "/images/parent_#144.jpg",
+      "motherImage": "/images/parent_#141.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#523",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "1000",
+    "color": "White",
+    "image": "/images/chick_#98.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#58",
+      "fatherId": "parent_#906",
+      "fatherImage": "/images/parent_#110.jpg",
+      "motherImage": "/images/parent_#295.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#785",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/parent_#48.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#149",
+      "fatherId": "parent_#848",
+      "fatherImage": "/images/parent_#236.jpg",
+      "motherImage": "/images/parent_#55.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#537",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "200",
+    "color": "Yellow",
+    "image": "/images/parent_#36.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#472",
+      "fatherId": "parent_#628",
+      "fatherImage": "/images/parent_#302.jpg",
+      "motherImage": "/images/parent_#286.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#865",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "Black",
+    "image": "/images/parent_#97.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#21",
+      "fatherId": "parent_#560",
+      "fatherImage": "/images/parent_#54.jpg",
+      "motherImage": "/images/parent_#484.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#152",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Red and Brown",
+    "image": "/images/parent_#8.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#290",
+      "fatherId": "parent_#752",
+      "fatherImage": "/images/parent_#434.jpg",
+      "motherImage": "/images/parent_#261.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#897",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/chick_#13.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#94",
+      "fatherId": "parent_#863",
+      "fatherImage": "/images/parent_#48.jpg",
+      "motherImage": "/images/parent_#188.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#684",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/chick_#94.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#310",
+      "fatherId": "parent_#688",
+      "fatherImage": "/images/parent_#435.jpg",
+      "motherImage": "/images/parent_#189.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#896",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/chick_#1.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#156",
+      "fatherId": "parent_#926",
+      "fatherImage": "/images/parent_#122.jpg",
+      "motherImage": "/images/parent_#153.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#353",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Grey",
+    "image": "/images/chick_#53.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#37",
+      "fatherId": "parent_#695",
+      "fatherImage": "/images/parent_#77.jpg",
+      "motherImage": "/images/parent_#170.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#335",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "300",
+    "color": "Black",
+    "image": "/images/chick_#38.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#333",
+      "fatherId": "parent_#792",
+      "fatherImage": "/images/parent_#197.jpg",
+      "motherImage": "/images/parent_#358.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#769",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Grey",
+    "image": "/images/chick_#22.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#498",
+      "fatherId": "parent_#562",
+      "fatherImage": "/images/parent_#462.jpg",
+      "motherImage": "/images/parent_#54.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#287",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/chick_#49.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#453",
+      "fatherId": "parent_#774",
+      "fatherImage": "/images/parent_#320.jpg",
+      "motherImage": "/images/parent_#252.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#978",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Red and Brown",
+    "image": "/images/chick_#21.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#13",
+      "fatherId": "parent_#901",
+      "fatherImage": "/images/parent_#222.jpg",
+      "motherImage": "/images/parent_#40.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#537",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/chick_#35.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#124",
+      "fatherId": "parent_#814",
+      "fatherImage": "/images/parent_#411.jpg",
+      "motherImage": "/images/parent_#8.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#855",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Red and Brown",
+    "image": "/images/chick_#100.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#179",
+      "fatherId": "parent_#609",
+      "fatherImage": "/images/parent_#332.jpg",
+      "motherImage": "/images/parent_#294.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#268",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "200",
+    "color": "Yellow",
+    "image": "/images/parent_#44.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#182",
+      "fatherId": "parent_#950",
+      "fatherImage": "/images/parent_#256.jpg",
+      "motherImage": "/images/parent_#289.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#809",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Black",
+    "image": "/images/parent_#76.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#115",
+      "fatherId": "parent_#769",
+      "fatherImage": "/images/parent_#272.jpg",
+      "motherImage": "/images/parent_#103.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#228",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Red and Brown",
+    "image": "/images/chick_#74.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#130",
+      "fatherId": "parent_#813",
+      "fatherImage": "/images/parent_#134.jpg",
+      "motherImage": "/images/parent_#182.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#186",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Red and Brown",
+    "image": "/images/chick_#22.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#333",
+      "fatherId": "parent_#556",
+      "fatherImage": "/images/parent_#22.jpg",
+      "motherImage": "/images/parent_#388.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#814",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "Black and White",
+    "image": "/images/parent_#66.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#205",
+      "fatherId": "parent_#856",
+      "fatherImage": "/images/parent_#249.jpg",
+      "motherImage": "/images/parent_#242.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#105",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Grey",
+    "image": "/images/chick_#98.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#497",
+      "fatherId": "parent_#793",
+      "fatherImage": "/images/parent_#206.jpg",
+      "motherImage": "/images/parent_#90.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#28",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Yellow",
+    "image": "/images/chick_#84.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#268",
+      "fatherId": "parent_#858",
+      "fatherImage": "/images/parent_#370.jpg",
+      "motherImage": "/images/parent_#491.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#736",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "300",
+    "color": "Black and White",
+    "image": "/images/chick_#37.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#432",
+      "fatherId": "parent_#640",
+      "fatherImage": "/images/parent_#244.jpg",
+      "motherImage": "/images/parent_#138.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#899",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Grey",
+    "image": "/images/parent_#49.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#469",
+      "fatherId": "parent_#801",
+      "fatherImage": "/images/parent_#201.jpg",
+      "motherImage": "/images/parent_#385.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#908",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Grey",
+    "image": "/images/parent_#77.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#68",
+      "fatherId": "parent_#831",
+      "fatherImage": "/images/parent_#451.jpg",
+      "motherImage": "/images/parent_#416.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#137",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "White",
+    "image": "/images/chick_#90.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#306",
+      "fatherId": "parent_#843",
+      "fatherImage": "/images/parent_#354.jpg",
+      "motherImage": "/images/parent_#73.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#669",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Red and Brown",
+    "image": "/images/chick_#86.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#419",
+      "fatherId": "parent_#570",
+      "fatherImage": "/images/parent_#479.jpg",
+      "motherImage": "/images/parent_#9.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#937",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "Black and White",
+    "image": "/images/chick_#88.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#117",
+      "fatherId": "parent_#787",
+      "fatherImage": "/images/parent_#12.jpg",
+      "motherImage": "/images/parent_#144.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#291",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "Grey",
+    "image": "/images/parent_#67.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#431",
+      "fatherId": "parent_#681",
+      "fatherImage": "/images/parent_#89.jpg",
+      "motherImage": "/images/parent_#335.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#722",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Black and White",
+    "image": "/images/parent_#50.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#295",
+      "fatherId": "parent_#680",
+      "fatherImage": "/images/parent_#498.jpg",
+      "motherImage": "/images/parent_#476.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#893",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/parent_#24.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#440",
+      "fatherId": "parent_#976",
+      "fatherImage": "/images/parent_#95.jpg",
+      "motherImage": "/images/parent_#132.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#917",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Red and Brown",
+    "image": "/images/chick_#72.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#71",
+      "fatherId": "parent_#710",
+      "fatherImage": "/images/parent_#257.jpg",
+      "motherImage": "/images/parent_#470.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#639",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Red and Brown",
+    "image": "/images/parent_#10.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#150",
+      "fatherId": "parent_#566",
+      "fatherImage": "/images/parent_#245.jpg",
+      "motherImage": "/images/parent_#464.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#642",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/parent_#90.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#244",
+      "fatherId": "parent_#598",
+      "fatherImage": "/images/parent_#373.jpg",
+      "motherImage": "/images/parent_#415.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#828",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/chick_#49.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#339",
+      "fatherId": "parent_#557",
+      "fatherImage": "/images/parent_#249.jpg",
+      "motherImage": "/images/parent_#290.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#981",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Black",
+    "image": "/images/chick_#76.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#453",
+      "fatherId": "parent_#749",
+      "fatherImage": "/images/parent_#373.jpg",
+      "motherImage": "/images/parent_#340.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#250",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/chick_#4.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#434",
+      "fatherId": "parent_#722",
+      "fatherImage": "/images/parent_#312.jpg",
+      "motherImage": "/images/parent_#287.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#226",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "300",
+    "color": "Grey",
+    "image": "/images/parent_#87.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#405",
+      "fatherId": "parent_#948",
+      "fatherImage": "/images/parent_#146.jpg",
+      "motherImage": "/images/parent_#85.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#645",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/parent_#66.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#354",
+      "fatherId": "parent_#781",
+      "fatherImage": "/images/parent_#390.jpg",
+      "motherImage": "/images/parent_#291.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#301",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Yellow",
+    "image": "/images/parent_#90.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#31",
+      "fatherId": "parent_#818",
+      "fatherImage": "/images/parent_#149.jpg",
+      "motherImage": "/images/parent_#324.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#400",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Red and Brown",
+    "image": "/images/chick_#33.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#131",
+      "fatherId": "parent_#568",
+      "fatherImage": "/images/parent_#58.jpg",
+      "motherImage": "/images/parent_#57.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#523",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Yellow",
+    "image": "/images/parent_#38.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#471",
+      "fatherId": "parent_#652",
+      "fatherImage": "/images/parent_#459.jpg",
+      "motherImage": "/images/parent_#233.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#91",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/parent_#81.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#494",
+      "fatherId": "parent_#637",
+      "fatherImage": "/images/parent_#101.jpg",
+      "motherImage": "/images/parent_#285.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#115",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Grey",
+    "image": "/images/chick_#69.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#128",
+      "fatherId": "parent_#924",
+      "fatherImage": "/images/parent_#132.jpg",
+      "motherImage": "/images/parent_#269.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#640",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "White",
+    "image": "/images/parent_#71.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#39",
+      "fatherId": "parent_#914",
+      "fatherImage": "/images/parent_#404.jpg",
+      "motherImage": "/images/parent_#257.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#196",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Black",
+    "image": "/images/chick_#58.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#210",
+      "fatherId": "parent_#693",
+      "fatherImage": "/images/parent_#310.jpg",
+      "motherImage": "/images/parent_#134.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#100",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "Yellow",
+    "image": "/images/parent_#99.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#217",
+      "fatherId": "parent_#959",
+      "fatherImage": "/images/parent_#11.jpg",
+      "motherImage": "/images/parent_#178.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#217",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Black",
+    "image": "/images/chick_#8.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#77",
+      "fatherId": "parent_#598",
+      "fatherImage": "/images/parent_#323.jpg",
+      "motherImage": "/images/parent_#134.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#855",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "Black and White",
+    "image": "/images/chick_#36.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#360",
+      "fatherId": "parent_#787",
+      "fatherImage": "/images/parent_#193.jpg",
+      "motherImage": "/images/parent_#158.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#31",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/chick_#89.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#250",
+      "fatherId": "parent_#866",
+      "fatherImage": "/images/parent_#55.jpg",
+      "motherImage": "/images/parent_#296.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#925",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/chick_#80.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#283",
+      "fatherId": "parent_#582",
+      "fatherImage": "/images/parent_#476.jpg",
+      "motherImage": "/images/parent_#148.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#342",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/chick_#4.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#53",
+      "fatherId": "parent_#512",
+      "fatherImage": "/images/parent_#363.jpg",
+      "motherImage": "/images/parent_#123.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#185",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Red and Brown",
+    "image": "/images/parent_#91.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#363",
+      "fatherId": "parent_#620",
+      "fatherImage": "/images/parent_#16.jpg",
+      "motherImage": "/images/parent_#191.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#740",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "White",
+    "image": "/images/chick_#22.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#272",
+      "fatherId": "parent_#796",
+      "fatherImage": "/images/parent_#168.jpg",
+      "motherImage": "/images/parent_#494.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#541",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Yellow",
+    "image": "/images/chick_#82.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#476",
+      "fatherId": "parent_#903",
+      "fatherImage": "/images/parent_#316.jpg",
+      "motherImage": "/images/parent_#1.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#755",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "Red and Brown",
+    "image": "/images/parent_#61.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#174",
+      "fatherId": "parent_#798",
+      "fatherImage": "/images/parent_#442.jpg",
+      "motherImage": "/images/parent_#36.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#507",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Black",
+    "image": "/images/chick_#28.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#25",
+      "fatherId": "parent_#765",
+      "fatherImage": "/images/parent_#2.jpg",
+      "motherImage": "/images/parent_#226.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#679",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/parent_#11.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#17",
+      "fatherId": "parent_#906",
+      "fatherImage": "/images/parent_#60.jpg",
+      "motherImage": "/images/parent_#35.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#168",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Black and White",
+    "image": "/images/parent_#77.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#47",
+      "fatherId": "parent_#537",
+      "fatherImage": "/images/parent_#290.jpg",
+      "motherImage": "/images/parent_#69.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#964",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Black and White",
+    "image": "/images/parent_#16.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#330",
+      "fatherId": "parent_#540",
+      "fatherImage": "/images/parent_#303.jpg",
+      "motherImage": "/images/parent_#480.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#906",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/chick_#76.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#140",
+      "fatherId": "parent_#780",
+      "fatherImage": "/images/parent_#352.jpg",
+      "motherImage": "/images/parent_#388.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#932",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "300",
+    "color": "Black",
+    "image": "/images/chick_#55.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#263",
+      "fatherId": "parent_#576",
+      "fatherImage": "/images/parent_#337.jpg",
+      "motherImage": "/images/parent_#152.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#317",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Yellow",
+    "image": "/images/parent_#29.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#263",
+      "fatherId": "parent_#557",
+      "fatherImage": "/images/parent_#100.jpg",
+      "motherImage": "/images/parent_#219.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#837",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "Red and Brown",
+    "image": "/images/chick_#95.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#325",
+      "fatherId": "parent_#666",
+      "fatherImage": "/images/parent_#438.jpg",
+      "motherImage": "/images/parent_#19.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#11",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Grey",
+    "image": "/images/chick_#15.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#122",
+      "fatherId": "parent_#876",
+      "fatherImage": "/images/parent_#287.jpg",
+      "motherImage": "/images/parent_#287.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#889",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Black",
+    "image": "/images/chick_#77.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#294",
+      "fatherId": "parent_#771",
+      "fatherImage": "/images/parent_#270.jpg",
+      "motherImage": "/images/parent_#448.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#211",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "White",
+    "image": "/images/chick_#95.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#382",
+      "fatherId": "parent_#984",
+      "fatherImage": "/images/parent_#206.jpg",
+      "motherImage": "/images/parent_#338.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#879",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Yellow",
+    "image": "/images/chick_#51.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#211",
+      "fatherId": "parent_#859",
+      "fatherImage": "/images/parent_#256.jpg",
+      "motherImage": "/images/parent_#230.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#583",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "500",
+    "color": "Grey",
+    "image": "/images/parent_#11.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#113",
+      "fatherId": "parent_#800",
+      "fatherImage": "/images/parent_#346.jpg",
+      "motherImage": "/images/parent_#116.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#864",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/parent_#25.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#254",
+      "fatherId": "parent_#539",
+      "fatherImage": "/images/parent_#276.jpg",
+      "motherImage": "/images/parent_#381.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#769",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "Yellow",
+    "image": "/images/parent_#52.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#490",
+      "fatherId": "parent_#624",
+      "fatherImage": "/images/parent_#167.jpg",
+      "motherImage": "/images/parent_#207.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#804",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Yellow",
+    "image": "/images/chick_#14.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#194",
+      "fatherId": "parent_#559",
+      "fatherImage": "/images/parent_#250.jpg",
+      "motherImage": "/images/parent_#321.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#651",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "White",
+    "image": "/images/chick_#26.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#395",
+      "fatherId": "parent_#795",
+      "fatherImage": "/images/parent_#11.jpg",
+      "motherImage": "/images/parent_#256.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#855",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/parent_#1.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#237",
+      "fatherId": "parent_#550",
+      "fatherImage": "/images/parent_#446.jpg",
+      "motherImage": "/images/parent_#475.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#79",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/parent_#45.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#218",
+      "fatherId": "parent_#807",
+      "fatherImage": "/images/parent_#206.jpg",
+      "motherImage": "/images/parent_#427.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#155",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Grey",
+    "image": "/images/parent_#21.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#102",
+      "fatherId": "parent_#939",
+      "fatherImage": "/images/parent_#478.jpg",
+      "motherImage": "/images/parent_#431.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#483",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Black",
+    "image": "/images/parent_#1.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#137",
+      "fatherId": "parent_#682",
+      "fatherImage": "/images/parent_#232.jpg",
+      "motherImage": "/images/parent_#277.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#990",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Grey",
+    "image": "/images/chick_#69.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#97",
+      "fatherId": "parent_#599",
+      "fatherImage": "/images/parent_#297.jpg",
+      "motherImage": "/images/parent_#320.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#537",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "2000",
+    "color": "Black and White",
+    "image": "/images/parent_#6.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#329",
+      "fatherId": "parent_#957",
+      "fatherImage": "/images/parent_#140.jpg",
+      "motherImage": "/images/parent_#497.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#902",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "300",
+    "color": "Grey",
+    "image": "/images/parent_#41.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#46",
+      "fatherId": "parent_#716",
+      "fatherImage": "/images/parent_#472.jpg",
+      "motherImage": "/images/parent_#63.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#336",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "White",
+    "image": "/images/chick_#63.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#82",
+      "fatherId": "parent_#536",
+      "fatherImage": "/images/parent_#275.jpg",
+      "motherImage": "/images/parent_#343.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#353",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Available",
+    "rate": "4000",
+    "color": "White",
+    "image": "/images/chick_#76.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#126",
+      "fatherId": "parent_#929",
+      "fatherImage": "/images/parent_#291.jpg",
+      "motherImage": "/images/parent_#184.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#525",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "500",
+    "color": "Black",
+    "image": "/images/parent_#65.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#351",
+      "fatherId": "parent_#540",
+      "fatherImage": "/images/parent_#277.jpg",
+      "motherImage": "/images/parent_#86.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#402",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Red and Brown",
+    "image": "/images/chick_#2.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#87",
+      "fatherId": "parent_#528",
+      "fatherImage": "/images/parent_#89.jpg",
+      "motherImage": "/images/parent_#54.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#965",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Yellow",
+    "image": "/images/chick_#100.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#103",
+      "fatherId": "parent_#844",
+      "fatherImage": "/images/parent_#292.jpg",
+      "motherImage": "/images/parent_#460.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#83",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "Yellow",
+    "image": "/images/chick_#36.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#38",
+      "fatherId": "parent_#924",
+      "fatherImage": "/images/parent_#192.jpg",
+      "motherImage": "/images/parent_#22.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#191",
+    "type": "Chick",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "2000",
+    "color": "Red and Brown",
+    "image": "/images/chick_#27.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#51",
+      "fatherId": "parent_#544",
+      "fatherImage": "/images/parent_#259.jpg",
+      "motherImage": "/images/parent_#10.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#559",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/parent_#11.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#79",
+      "fatherId": "parent_#991",
+      "fatherImage": "/images/parent_#298.jpg",
+      "motherImage": "/images/parent_#284.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#648",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "White",
+    "image": "/images/chick_#99.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#246",
+      "fatherId": "parent_#796",
+      "fatherImage": "/images/parent_#238.jpg",
+      "motherImage": "/images/parent_#415.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#781",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/chick_#31.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#128",
+      "fatherId": "parent_#667",
+      "fatherImage": "/images/parent_#108.jpg",
+      "motherImage": "/images/parent_#441.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#411",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Grey",
+    "image": "/images/parent_#54.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#364",
+      "fatherId": "parent_#837",
+      "fatherImage": "/images/parent_#244.jpg",
+      "motherImage": "/images/parent_#418.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#349",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/parent_#79.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#74",
+      "fatherId": "parent_#949",
+      "fatherImage": "/images/parent_#163.jpg",
+      "motherImage": "/images/parent_#252.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#142",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "White",
+    "image": "/images/parent_#60.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#460",
+      "fatherId": "parent_#990",
+      "fatherImage": "/images/parent_#74.jpg",
+      "motherImage": "/images/parent_#481.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#329",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Red and Brown",
+    "image": "/images/parent_#55.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#139",
+      "fatherId": "parent_#605",
+      "fatherImage": "/images/parent_#23.jpg",
+      "motherImage": "/images/parent_#249.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#227",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Black and White",
+    "image": "/images/parent_#72.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#394",
+      "fatherId": "parent_#982",
+      "fatherImage": "/images/parent_#485.jpg",
+      "motherImage": "/images/parent_#478.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#504",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "500",
+    "color": "Black",
+    "image": "/images/chick_#73.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#185",
+      "fatherId": "parent_#887",
+      "fatherImage": "/images/parent_#243.jpg",
+      "motherImage": "/images/parent_#81.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#901",
+    "type": "Parent",
+    "age": "1 Month",
+    "status": "Available",
+    "rate": "1000",
+    "color": "Grey",
+    "image": "/images/chick_#22.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "parentDetails": {
+      "motherId": "parent_#113",
+      "fatherId": "parent_#796",
+      "fatherImage": "/images/parent_#268.jpg",
+      "motherImage": "/images/parent_#220.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#681",
+    "type": "Parent",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "200",
+    "color": "Red and Brown",
+    "image": "/images/parent_#17.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#427",
+      "fatherId": "parent_#528",
+      "fatherImage": "/images/parent_#466.jpg",
+      "motherImage": "/images/parent_#484.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#383",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Dispatched",
+    "rate": "1000",
+    "color": "Black",
+    "image": "/images/chick_#73.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "parentDetails": {
+      "motherId": "parent_#140",
+      "fatherId": "parent_#589",
+      "fatherImage": "/images/parent_#286.jpg",
+      "motherImage": "/images/parent_#493.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#252",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Booked",
+    "rate": "300",
+    "color": "Black and White",
+    "image": "/images/parent_#20.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#52",
+      "fatherId": "parent_#985",
+      "fatherImage": "/images/parent_#414.jpg",
+      "motherImage": "/images/parent_#330.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#933",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Booked",
+    "rate": "2000",
+    "color": "Grey",
+    "image": "/images/chick_#69.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "parentDetails": {
+      "motherId": "parent_#281",
+      "fatherId": "parent_#935",
+      "fatherImage": "/images/parent_#50.jpg",
+      "motherImage": "/images/parent_#474.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#589",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Red and Brown",
+    "image": "/images/parent_#28.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "parentDetails": {
+      "motherId": "parent_#65",
+      "fatherId": "parent_#889",
+      "fatherImage": "/images/parent_#388.jpg",
+      "motherImage": "/images/parent_#332.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#587",
+    "type": "Parent",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Grey",
+    "image": "/images/chick_#91.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "parentDetails": {
+      "motherId": "parent_#334",
+      "fatherId": "parent_#812",
+      "fatherImage": "/images/parent_#493.jpg",
+      "motherImage": "/images/parent_#13.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#917",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "200",
+    "color": "Yellow",
+    "image": "/images/chick_#63.jpg",
+    "weight": "4",
+    "unit_of_weight": "kg",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "parentDetails": {
+      "motherId": "parent_#396",
+      "fatherId": "parent_#662",
+      "fatherImage": "/images/parent_#41.jpg",
+      "motherImage": "/images/parent_#204.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#826",
+    "type": "Parent",
+    "age": "1+ Years",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "Yellow",
+    "image": "/images/chick_#15.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "parentDetails": {
+      "motherId": "parent_#283",
+      "fatherId": "parent_#811",
+      "fatherImage": "/images/parent_#240.jpg",
+      "motherImage": "/images/parent_#488.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#816",
+    "type": "Chick",
+    "age": "1 Month",
+    "status": "Dispatched",
+    "rate": "300",
+    "color": "White",
+    "image": "/images/parent_#70.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "parentDetails": {
+      "motherId": "parent_#242",
+      "fatherId": "parent_#877",
+      "fatherImage": "/images/parent_#487.jpg",
+      "motherImage": "/images/parent_#37.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#841",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "4000",
+    "color": "Black",
+    "image": "/images/chick_#36.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#167",
+      "fatherId": "parent_#675",
+      "fatherImage": "/images/parent_#98.jpg",
+      "motherImage": "/images/parent_#115.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#72",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Dispatched",
+    "rate": "4000",
+    "color": "White",
+    "image": "/images/chick_#99.jpg",
+    "weight": "3",
+    "unit_of_weight": "kg",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "parentDetails": {
+      "motherId": "parent_#471",
+      "fatherId": "parent_#780",
+      "fatherImage": "/images/parent_#435.jpg",
+      "motherImage": "/images/parent_#363.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#276",
+    "type": "Chick",
+    "age": "Day Old",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Red and Brown",
+    "image": "/images/parent_#61.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#154",
+      "fatherId": "parent_#777",
+      "fatherImage": "/images/parent_#391.jpg",
+      "motherImage": "/images/parent_#23.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#786",
+    "type": "Chick",
+    "age": "2 Months",
+    "status": "Available",
+    "rate": "4000",
+    "color": "Black and White",
+    "image": "/images/chick_#98.jpg",
+    "weight": "2",
+    "unit_of_weight": "kg",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "parentDetails": {
+      "motherId": "parent_#191",
+      "fatherId": "parent_#678",
+      "fatherImage": "/images/parent_#256.jpg",
+      "motherImage": "/images/parent_#272.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#763",
+    "type": "Chick",
+    "age": "6 Months",
+    "status": "Available",
+    "rate": "500",
+    "color": "Black",
+    "image": "/images/parent_#30.jpg",
+    "weight": "1",
+    "unit_of_weight": "kg",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "parentDetails": {
+      "motherId": "parent_#373",
+      "fatherId": "parent_#665",
+      "fatherImage": "/images/parent_#83.jpg",
+      "motherImage": "/images/parent_#395.jpg"
+    }
+  },
+  {
+    "stockId": "chick_#123",
+    "type": "Parent",
+    "age": "2 Months",
+    "status": "Booked",
+    "rate": "1000",
+    "color": "Black and White",
+    "image": "/images/chick_#21.jpg",
+    "weight": "0.5",
+    "unit_of_weight": "kg",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "parentDetails": {
+      "motherId": "parent_#238",
+      "fatherId": "parent_#927",
+      "fatherImage": "/images/parent_#66.jpg",
+      "motherImage": "/images/parent_#144.jpg"
+    }
+  }
+]
